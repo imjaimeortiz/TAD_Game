@@ -1,0 +1,104 @@
+# depslib dependency file v1.0
+1518078042 source:c:\users\alumno\desktop\tp2018\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1518078048 c:\users\alumno\desktop\tp2018\pantalla.h
+	"SDL2/SDL.h"
+
+1521707850 source:c:\users\alumno\desktop\tp2018\main.c
+	"Pantalla.h"
+	<time.h>
+	<stdlib.h>
+	<stdio.h>
+	"Personaje.h"
+	"Enemigo.h"
+	"Colision.h"
+	"Estrella.h"
+	"Estrellas.h"
+
+1518686668 source:g:\tp2018\main.c
+	"Pantalla.h"
+
+1518078048 g:\tp2018\pantalla.h
+	"SDL2/SDL.h"
+
+1518078042 source:g:\tp2018\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1521103570 source:e:\tp2018\main.c
+	"Pantalla.h"
+	<time.h>
+	<stdio.h>
+	"Personaje.h"
+	"Enemigo.h"
+	"math.h"
+
+1518078048 e:\tp2018\pantalla.h
+	"SDL2/SDL.h"
+
+1518078042 source:e:\tp2018\pantalla.c
+	"Pantalla.h"
+	<stdlib.h>
+	<signal.h>
+	<stdio.h>
+	<math.h>
+
+1520494756 e:\tp2018\personaje.h
+	"Pantalla.h"
+
+1520495938 source:e:\tp2018\personaje.c
+	"Personaje.h"
+	<stdlib.h>
+
+1521103200 source:e:\tp2018\enemigo.c
+	"Enemigo.h"
+	<stdlib.h>
+
+1521101480 e:\tp2018\enemigo.h
+	"Pantalla.h"
+
+1521702065 source:c:\users\alumno\desktop\tp2018\enemigo.c
+	"Enemigo.h"
+	<stdlib.h>
+
+1521101480 c:\users\alumno\desktop\tp2018\enemigo.h
+	"Pantalla.h"
+
+1520494756 c:\users\alumno\desktop\tp2018\personaje.h
+	"Pantalla.h"
+
+1521703436 source:c:\users\alumno\desktop\tp2018\personaje.c
+	"Personaje.h"
+	<stdlib.h>
+
+1521702096 source:c:\users\alumno\desktop\tp2018\colision.c
+	"Colision.h"
+	<math.h>
+
+1521103974 c:\users\alumno\desktop\tp2018\colision.h
+	"Pantalla.h"
+
+1521702830 source:c:\users\alumno\desktop\tp2018\estrella.c
+	"Estrella.h"
+	<stdlib.h>
+
+1521703454 c:\users\alumno\desktop\tp2018\estrella.h
+	"Pantalla.h"
+
+1521707067 source:c:\users\alumno\desktop\tp2018\estrellas.c
+	"Estrellas.h"
+	"Estrella.h"
+	"Colision.h"
+	<stdlib.h>
+
+1521707434 c:\users\alumno\desktop\tp2018\estrellas.h
+	"Pantalla.h"
+
